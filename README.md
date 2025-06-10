@@ -20,8 +20,9 @@ I'm Jacob Trout, a [Computational Analysis and Public Policy](https://capp.uchic
 - **Mortgage Loan ML Pipeline**: Built an end-to-end application to ingest 500+ GB of mortgage data into Snowflake, train CatBoost models to predict loan delinquency and prepayment, and deploy model outputs via an interactive Flask dashboard.
 - **[CommonThread: Civic Tech Story Collection & Analysis Platform](https://github.com/uchicago-capp-30320/CommonThread?tab=readme-ov-file)** – As backend engineer and ML specialist, I designed and implemented the ML task scheduling workflow for analyzing narrative data, supporting asynchronous processing and evidence-based insights.  
   [Live Application](http://turing.unnamed.computer:8031/)
-- **[Corn and Climate: Midwestern Trends Over the Last Half Century](https://cornandclimate.netlify.app/)**  
+- **[Corn and Climate: Midwestern Trends Over the Last Half Century](https://github.com/jacobtrout/Corn_and_Climate)**  
   This interactive data visualization project examines regional trends in climate and corn production from 1980 to 2023. It integrates county-level corn production and climate data from the USDA and NOAA, offering interactive maps to visualize nominal values and relative changes over time. Users can compare metrics such as corn yields, temperatures, and precipitation across Midwest counties.
+  [Live Application](https://cornandclimate.netlify.app/)
 - [Energy sector analysis of US](https://github.com/uchicago-mscapp-projects/watts_up)
   This project ingests energy generation data from across the US over the past 20 years and displays visualizations highlighting trends in generation sources over time, providing insights into the evolving landscape of US energy production via a Dash app.
 - **Credit Risk Stress Testing**: Led modeling work for Ginnie Mae’s non-bank issuer stress tests, building econometric models with Bloomberg and Moody’s data.
@@ -42,4 +43,3 @@ _Many academic projects are in private repos due to academic integrity requireme
 - **Polling Precinct Simulation**: Modeled voter wait times using M/M/N queue theory.
 - **Political Tweet Analysis**: Applied NLP to classify sentiment in political social media data.
 - **Epidemic Simulation**: Simulated disease spread using the SIR model.
-
